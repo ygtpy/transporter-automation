@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is a Python-based automation project designed for transporters. The application allows users to manage companies or individual customers they transport goods for. It includes basic features such as viewing invoices, delivery notes, load photos and transportation charges. Users can also add new records, sort them by date, and keep track of each customer's total debt. This project is under development and continues to evolve according to the many problems and needs of drivers. Innovations that will take your transportation experience to a whole new level are coming soon!
+This is a Python-based automation project designed for transporters. The application allows users to manage companies or individual customers they transport goods for. It includes basic features such as viewing invoices, delivery notes, load photos and transportation charges. Users can also add new records, sort them by date, and keep track of each customer's total debt. This project is under development and continues to evolve according to the many problems and needs of drivers. Innovations that will take your transportation experience to a whole new level are coming soon! [Click here for more information](https://www.vistaclub.co/)
+
 ## Features
 
 - **User Authentication:**
